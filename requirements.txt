@@ -1,0 +1,4 @@
+pandas
+streamlit
+notebook
+opencv-python-headless
